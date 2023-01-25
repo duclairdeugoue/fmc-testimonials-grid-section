@@ -45,11 +45,11 @@ Users should be able to:
 ### What I learned
 
 ```html
-<!-- put code here -->
+<!-- put code here! -->
 ```
 
 ```css
-/* put code here */
+/* put code here! */
 }
 ```
 
